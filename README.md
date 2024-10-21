@@ -2,6 +2,15 @@ Dr. Zhenming Su is a Research Biology Specialist II at the Institute for Fisheri
 
 His broad research interests include Bayesian statistical modeling and data analysis; fish population dynamics; ecological and fisheries statistical modeling; sampling survey theory and methodology; statistical computing and programming; spatial data analysis; Bayesian dynamic modeling and forecasting; animal and fish abundance estimation.
 
+## Education
+2002 PostDoct. Fellow, Simon Fraser University, British Columbia, Canada
+
+2001 Ph.D., Fisheries, University of Alaska Fairbanks, Juneau, USA
+
+1988 M.S., Fisheries, Ocean University of China, Qingdao, China
+
+1985 B.S., Fisheries, Ocean University of China, Qingdao, China
+
 ## Publications
 Su, Z., 2023. Evaluation of management performance of a new state-space model for pink salmon (Oncorhynchus gorbuscha) stock–recruitment analysis. Canadian Journal of Fisheries and Aquatic Sciences, 80(8), pp.1268-1288. 
 
